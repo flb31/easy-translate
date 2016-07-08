@@ -1,0 +1,3 @@
+titulo-web=>Mi sitio multilenguajes
+bienvenidos=>Bienvenidos a mi sitio 
+hola=>hola mundo
